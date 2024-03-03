@@ -3,17 +3,33 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "",
+    "activeFile": "level_02.tmx",
     "expandedProjectPaths": [
+        "."
     ],
     "fileStates": {
         "level_01.tmx": {
+            "expandedObjectLayers": [
+                2
+            ],
             "scale": 0.7599,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 211.21200157915516,
-                "y": 290.82774049217
+                "x": 320.43689959205153,
+                "y": 184.23476773259637
             }
+        },
+        "level_02.tmx": {
+            "scale": 1.010859375,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 318.04621686374526,
+                "y": 184.00185485740786
+            }
+        },
+        "pixel-adventure.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         }
     },
     "last.imagePath": "/Users/mac/Coding/pixel_adventure/assets/images/Terrain",
@@ -23,9 +39,15 @@
     "map.tileWidth": 16,
     "map.width": 40,
     "openFiles": [
+        "pixel-adventure.tsx",
+        "level_01.tmx",
+        "level_02.tmx"
     ],
     "project": "pixel-adventure.tiled-project",
     "recentFiles": [
+        "pixel-adventure.tsx",
+        "level_01.tmx",
+        "level_02.tmx"
     ],
     "tileset.lastUsedFormat": "tsx",
     "tileset.tileSize": {

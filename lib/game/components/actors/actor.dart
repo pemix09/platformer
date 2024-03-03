@@ -1,5 +1,5 @@
 import 'package:flame/components.dart';
-import 'package:pixel_adventure/game/actors/traits/move.dart';
+import 'package:pixel_adventure/game/components/actors/traits/move.dart';
 import 'package:pixel_adventure/game/assets.dart';
 import 'package:pixel_adventure/game/config.dart';
 import 'package:pixel_adventure/game/pixel_adventure.dart';
